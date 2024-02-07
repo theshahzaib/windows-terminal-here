@@ -39,7 +39,7 @@ This guide provides step-by-step instructions on how to add an option to open Wi
     ```
 
 5. **Download the Icon**:
-   - Download the Windows Terminal icon from [here](./terminal.ico).
+   - Download the Windows Terminal icon from [here](terminal.ico).
    - Place the downloaded icon in the Windows Terminal installation folder. The default installation folder is usually `C:\\Users\\YOUR_USERNAME\\AppData\\Local\\terminal\\`.
    - Copy terminal icon to the required folder
     ```cmd
