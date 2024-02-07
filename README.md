@@ -2,6 +2,8 @@
 
 This guide provides step-by-step instructions on how to add an option to open Windows Terminal at any folder location in Windows 10's right-click context menu.
 
+![OpenInTerminal](./img/wt_img.jpg)
+
 ## Prerequisites
 
 - Windows 10 operating system
