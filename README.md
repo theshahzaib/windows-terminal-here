@@ -21,7 +21,7 @@ This guide provides step-by-step instructions on how to add an option to open Wi
    - Open the `wt.reg` file in a text editor.
    - Replace `"YOUR_USERNAME"` with your actual username in the file.
 
-   ```json
+   ```reg
     Windows Registry Editor Version 5.00
 
     [HKEY_CLASSES_ROOT\Directory\Background\shell\wt]
